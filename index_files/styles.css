@@ -785,7 +785,16 @@ select::-ms-expand {
 	margin: 0 auto 35px;
 	background: #ebebeb url(../images/offer__phone_icon.png) 20px center no-repeat;
 }
-
+.offer_section .field[name='city'] {
+	margin: 0 auto 35px;
+	background: #ebebeb url(../index_files/city.png) 20px center no-repeat;
+	background-size: 20px;
+}
+.offer_section .field[name='post'] {
+	margin: 0 auto 35px;
+	background: #ebebeb url(../index_files/post.png) 20px center no-repeat;
+	background-size: 20px;
+}
 .offer_section.offer3 .field {
 	border: 1px solid #dedede;
 }
